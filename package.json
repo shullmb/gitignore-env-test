@@ -1,0 +1,23 @@
+{
+  "name": "gitignore-env-test",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shullmb/gitignore-env-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shullmb/gitignore-env-test/issues"
+  },
+  "homepage": "https://github.com/shullmb/gitignore-env-test#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3"
+  }
+}
